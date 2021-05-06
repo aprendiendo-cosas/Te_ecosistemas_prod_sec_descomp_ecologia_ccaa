@@ -1,4 +1,4 @@
-# Guión de la sesión denominada "Generalidades sobre ecosistemas"
+# Guión de la sesión denominada "Producción secundaria y descomposición"
 
 
 > + **_Versión_**: 2020-2021
@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 30 minutos.
 
-<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_secundaria_descomposicion_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
 
 
