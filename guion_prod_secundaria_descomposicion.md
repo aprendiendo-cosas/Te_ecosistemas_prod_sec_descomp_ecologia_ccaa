@@ -4,7 +4,7 @@
 > + **_Versión_**: 2020-2021
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 50 minutos.
+> + **Duración**: Aproximadamente 30 minutos.
 
 <img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
@@ -34,6 +34,3 @@ A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa 
 
 ## Vídeo de la sesión
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C5rgtm7jFAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
