@@ -6,30 +6,30 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 30 minutos.
 
-<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_secundaria_descomposicion_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
 
 
 ## Objetivos 
 
-En esta sesión iniciamos nuestro recorrido por el concepto de ecosistema. Después de hablar de comunidades durante varias semanas, las dejamos atrás integrándolas y trascendiéndolas. De manera muy sencilla definiremos un ecosistema como el conjunto de las comunidades que viven en un lugar determinado más el entorno físico en el que desarrollan su acdtividad. Este concepto nos permite incorporar la idea de intercambio de materia y energía entre lo vivo y lo inerte.
+En esta sesión continuamos analizando los elementos descriptores de los ecosistemas. En este caso, después de aprender qué es la producción primaria, ponemos el foco en los organismos que se alimentan de la biomasa generada por los productores primarios. Se trata de la producción secundaria. 
 
 De manera más específica, los objetivos de esta sesión son:
 
- + Conocer el concepto de ecosistema como elemento integrador de individuos, poblaciones y comunidades.
- + Entender que el término ecosistema es escalo-dependiente. Es decir, que su definición se puede aplicar a diversas escalas espaciales y temporales.
- + Comprender que los ecosistemas se pueden caracterizar por una serie de propiedades emergentes relacionadas con el flujo de materia y energía en su interior: producción primaria, secundaria, descomposición, etc.
- + Reconocer la relación de este tema introductorio con las siguientes sesiones en las que se tratarán aspectos relacionados con la gestión de ecosistemas, impacto humano y cambio a escala planetaria. 
+ + Conocer el concepto de producción secundaria como proceso fundamental que permite transferir la biomasa generada por los productores primarias al resto de la red trófica.
+ + Contextualizar el concepto de producción secundaria relacionándolo con el ciclo de la materia y el flujo de energía en la Tierra.
+ + Relacionar de manera preliminar el concepto de producción secundaria con el de ciclo biogeoquímico.
 
 
 
  ## Contenidos
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_ecologia_ccaa/raw/main/presentacion/Ecosistemas_generalidades.xmind) y ver de  manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_ecosistemas_ecologia_ccaa/presentacion/ecosistemas.html) página.
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/raw/main/presentacion/produccion_secundaria_descomposicion.xmind) y ver de  manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/presentacion/prod_secundaria_descomposicion.html) página.
 
 <iframe
-  src="https://aprendiendo-cosas.github.io/Te_ecosistemas_ecologia_ccaa/presentacion/ecosistemas.html"
+  src="https://aprendiendo-cosas.github.io/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/presentacion/prod_secundaria_descomposicion.html"
   style="width:100%; height:450px;"
 ></iframe>
+
 
 
 ## Vídeo de la sesión
