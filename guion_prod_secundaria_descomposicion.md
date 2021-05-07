@@ -10,7 +10,7 @@
 
 
 
-## Objetivos sFASDFASDFASDFASD
+## Objetivos 
 
 En esta sesión continuamos analizando los elementos descriptores de los ecosistemas. En este caso, después de aprender qué es la producción primaria, ponemos el foco en los organismos que se alimentan de la biomasa generada por los productores primarios. Se trata de la producción secundaria. 
 
