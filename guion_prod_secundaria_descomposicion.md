@@ -37,3 +37,10 @@ A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa 
 **Vídeo 1: Producción secundaria**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K56Kpznks-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+**Vídeo 2: Producción secundaria y descomposición**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TZEINZgbomM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
