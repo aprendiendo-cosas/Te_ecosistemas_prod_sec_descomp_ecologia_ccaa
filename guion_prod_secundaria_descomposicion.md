@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 30 minutos.
 
-<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/raw/main/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
+<img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/raw/2020-2021/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
 
 
@@ -23,10 +23,10 @@ De manera más específica, los objetivos de esta sesión son:
 
 
  ## Contenidos
-A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/raw/main/presentacion/produccion_secundaria_descomposicion.xmind) y ver de  manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/presentacion/prod_secundaria_descomposicion.html) página.
+A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa mental, que se puede descargar de [aquí](https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/raw/2020-2021/presentacion/produccion_secundaria_descomposicion.xmind) y ver de  manera dinámica en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2020-2021/presentacion/prod_secundaria_descomposicion.html) página.
 
 <iframe
-  src="https://aprendiendo-cosas.github.io/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/presentacion/prod_secundaria_descomposicion.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2020-2021/presentacion/prod_secundaria_descomposicion.html"
   style="width:100%; height:450px;"
 ></iframe>
 
