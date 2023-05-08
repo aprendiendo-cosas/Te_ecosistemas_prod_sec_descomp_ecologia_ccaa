@@ -1,10 +1,10 @@
 # Guión de la sesión denominada "Producción secundaria y descomposición"
 
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 30 minutos.
+> + **Duración**: Aproximadamente 50 minutos.
 
 <img src="https://github.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/raw/2021-2022/imagenes/portada.jpg" alt="portada" style="zoom:150%;" />
 
@@ -29,5 +29,15 @@ A lo largo de la sesión se abordan los tópicos mostrados en el siguiente mapa 
   src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ecosistemas_prod_sec_descomp_ecologia_ccaa/2021-2022/presentacion/prod_secundaria_descomposicion.html"
   style="width:100%; height:450px;"
 ></iframe>
+
+
+
+
+
+
+
+
+
+
 
 
