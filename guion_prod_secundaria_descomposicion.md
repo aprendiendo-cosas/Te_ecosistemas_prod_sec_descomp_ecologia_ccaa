@@ -1,4 +1,4 @@
-# Guión de la sesión denominada "Producción secundaria y descomposición"
+# Producción secundaria y descomposición
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
 > + **_Versión_**: 2024-2025
